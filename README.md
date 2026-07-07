@@ -9,8 +9,8 @@ I am a passionate builder focused on creating efficient, scalable applications. 
 
 | Category | Technologies |
 | :--- | :--- |
-| Frontend / Mobile | Flutter, HTML5, CSS3, JavaScript |
-| Backend / Logic | Python, Laravel (PHP), Java, OS Theory |
+| Frontend / Mobile | Flutter, HTML5, CSS3, JavaScript(React) |
+| Backend / Logic | Python(Fast API), Laravel (PHP), Java, OS Theory |
 | Database & Cloud | Firebase, Supabase |
 | Tools & Workflow | Git, GitHub, Android Studio, Gradle |
 
